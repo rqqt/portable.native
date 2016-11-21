@@ -1,0 +1,1 @@
+Portable software. Native, not VMWare ThinApp!

@@ -1,0 +1,1 @@
+@START "" textadept\textadept.exe -u .\data
